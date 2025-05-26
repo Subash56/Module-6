@@ -55,4 +55,4 @@ print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' metho
 ![image](https://github.com/user-attachments/assets/c47131f0-d0df-4ea1-8069-5c7d9c10db80)
 
 ## Result
-![image](https://github.com/user-attachments/assets/c36278c7-e57f-4082-b1cd-ced6761d793f)
+Thus, the python program is executed successfully.
